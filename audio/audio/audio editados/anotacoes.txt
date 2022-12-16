@@ -1,0 +1,88 @@
+1:
+ 00:00.000
+  imagens de speedruns
+ 00:14.540
+ 00:30.700
+  imagem de alan turing
+  enigma
+ 00:47.600
+  mquina de turing
+ 00:52.600
+ 00:57.800 -> determinísicas
+ 00:59.000 -> não determinísticas
+ 01:15.500 -> some tudo
+ 01:17.300
+  classes P e NP
+ 01:24.500 -> NP
+ 01:39.000 -> coloca o super mario em NP
+ 01:51.000 -> coloca P != NP
+ 01:54.400 -> coloca ponto de interrogação em cima do P != NP
+
+2:
+ 00:02.000 -> titulo historia da complx
+ 00:15.500 -> algoritmos
+ 00:31.000 -> -> Teoria da computabilidade
+ 00:51.500 -> David Hilbert (foto)
+ 01:11.000 -> church (foto)
+ 01:11.700 -> turing (foto)
+ 01:30.000 -> calculo lambda
+ 01:33.000 -> máquina de turing
+ 01:36.000 -> aparece ===
+ 01:49.000 -> Problema da parada
+ 02:15.800 -> computável vs tratável
+ 02:51.400 -> tempo gasto/espaço de mem
+ 02:58.800 -> Teoria da Complx
+ 03:20.100 -> alg eff e prob comp adms
+ 03:45.000 -> P vs EXP
+
+3-1:
+ 00:05.300 -> Problemas computacionais
+ 00:09.400 -> Conjuntos de problemas
+ 00:28.700 -> Diagrama
+ 00:59.000 -> saindo
+ 01:00.600 -> outro diagrama
+ 01:12.000 -> fim
+
+3-2:
+ 00:00.000
+ 00:12.900 -> Linguagens
+  -> mostra strings
+ 00:29.100 -> muda para modeol de comp
+ 00:38.200 -> sobe a linguagem
+ 00:40.200 -> maquina de turing
+ 00:55.900 -> transforma em tese de
+ 01:10.500 -> some tudo
+ 01:19.500 -> t_M
+ 01:25.200 -> x <- string, n = |x|
+ 01:30.700 -> polinomial
+ 01:58.600 -> exponencial
+ 02:08.200 -> diagrama de novo
+ 02:34.100 -> SAT  
+
+4:
+ 00:02.000 -> Importancia de P vs NP
+ 00:20.400 -> Criptografia
+ 00:47.700 -> Um dos problemas do mil
+ 01:08.200 -> Solução para um é também para todos
+ 01:31.100 -> Humanos vs Máquinas
+
+5:
+ 00:01.100 -> Caso P=NP (3 casos)
+ 00:58.500 -> Caso P=NP e foi descoberto algoritmo eficiente
+ 01:18.600 -> candy crush
+ 01:53.200 -> speedruns Super Mario 
+
+6:
+ 00:04.300 -> Posicionamanto
+ 00:08.600 -> Knuth
+ 00:12.000 -> Lipton
+ 00:15.600 -> Enquete
+ 00:18.500 -> 2002
+ 00:19.700 -> 61
+ 00:22.700 -> 61 vs 9
+ 00:25.700 -> 2012
+ 00:26.900 -> 126
+ 00:30.000 -> 126 vs 9
+ 00:51.500 -> Significado de completude
+ 01:15.300 -> Não sabemos
+ 01:25.400 -> troca
