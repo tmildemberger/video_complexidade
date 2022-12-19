@@ -593,3 +593,12 @@ class Audio6(Scene):
         g4 = Tex("P vs NP").scale(1.8)
         self.play(FadeIn(g4), run_time=0.5)
         self.wait(127 - 103.5)
+
+class Audio7(Scene):
+    def construct(self):
+        encerramento = Tex("Encerramento").scale(1.4).shift(1.6*UP)
+        self.play(FadeIn(encerramento), run_time=2)
+        self.wait(15.5 - 2.0)
+        obrigado = Tex("Obrigado!").scale(1.1)
+        self.play(FadeIn(obrigado), run_time=1.5)
+        self.wait(19 - 17)
